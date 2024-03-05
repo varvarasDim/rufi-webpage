@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="867.3819 485.0483 51.2659 45.1944" width="51.2659" height="45.1944" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <marker orient="auto" refY="0" refX="0" id="Arrow1Lend-8-28-6-9-0" style="overflow:visible">
+      <path id="path6029-3-35-18-7-94" d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z" style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1pt;stroke-opacity:1" transform="matrix(-0.8,0,0,-0.8,-10,0)"/>
+    </marker>
+  </defs>
+  <g transform="matrix(0.975308, 0, 0, 0.975308, 862.229919, 474.430206)" id="layer1-61-3-6-1-9-7-4-29" style="opacity:1;fill:#d1d4d0;fill-opacity:1;stroke:#2c3e50;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+    <circle r="21.168638" cy="33.02533" cx="27.486773" id="path4149-8-7-0-3-3-3-6-3" style="fill:#d1d4d0;fill-opacity:1;fill-rule:evenodd;stroke:#2c3e50;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+  </g>
+  <path d="M 889.208 498.978 L 882.629 504.485 L 888.147 504.678 L 879.393 513.378 L 883.101 513.447 L 876.957 520.234 L 891.801 511.955 L 886.276 512.013 L 897.462 503.082 L 891.411 503.067 L 899.263 490.819 L 889.208 498.978 Z" id="path4828-3-0" style="fill:#2c3e50;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.02893832pt"/>
+  <g transform="matrix(0.498121, 0, 0, 0.498121, 894.155762, 503.077454)" id="layer1-61-3-6-1-9-7-2-5-9-1" style="opacity:1;fill:#ff0c0c;fill-opacity:1;stroke:none;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+    <circle r="21.168638" cy="33.02533" cx="27.486773" id="path4149-8-7-0-3-3-3-0-6-5-0" style="fill:#ff0c0c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+  </g>
+  <path style="opacity:1;fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.75386399px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend-8-28-6-9-0)" d="M 907.894 520.944 L 910.648 514.382" id="path6020-8-8-7-99"/>
+</svg>
