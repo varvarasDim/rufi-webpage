@@ -10830,7 +10830,7 @@ html {
 }
 
 .bg-black {
-  background-color: rgba(0, 0, 0, 0) !important;
+  background-color: rgba(0, 0, 0, 1) !important;
 }
 
 .bg-gradient-primary-to-secondary {
@@ -10920,14 +10920,14 @@ section {
 }
 
 .device[data-device=iPhoneX][data-orientation=portrait][data-color=black] {
-  padding-bottom: 192.898071625%;
+  padding-bottom: 198.898072%;
 }
 
 .device[data-device=iPhoneX][data-orientation=portrait][data-color=black] .screen {
-  top: 3.1855955679%;
-  left: 20.8870523416%;
-  width: 84.2258953168%;
-  height: 92.6288088643%;
+  top: 4.845596%;
+  left: 23.307052%;
+  width: 84.0058953168%;
+  height: 90.628809%;
 }
 
 .device[data-device=iPhoneX][data-orientation=portrait][data-color=black]::after {
