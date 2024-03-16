@@ -10830,7 +10830,7 @@ html {
 }
 
 .bg-black {
-  background-color: #000 !important;
+  background-color: rgba(0, 0, 0, 0) !important;
 }
 
 .bg-gradient-primary-to-secondary {
@@ -10903,7 +10903,7 @@ section {
 .device::after {
   position: absolute;
   background-size: cover;
-  width: 100%;
+  width: 110%;
   height: 100%;
   pointer-events: none;
 }
@@ -10920,14 +10920,14 @@ section {
 }
 
 .device[data-device=iPhoneX][data-orientation=portrait][data-color=black] {
-  padding-bottom: 198.898071625%;
+  padding-bottom: 192.898071625%;
 }
 
 .device[data-device=iPhoneX][data-orientation=portrait][data-color=black] .screen {
   top: 3.1855955679%;
-  left: 6.8870523416%;
-  width: 86.2258953168%;
-  height: 93.6288088643%;
+  left: 20.8870523416%;
+  width: 84.2258953168%;
+  height: 92.6288088643%;
 }
 
 .device[data-device=iPhoneX][data-orientation=portrait][data-color=black]::after {
@@ -11141,7 +11141,7 @@ footer a:hover, footer a:active, footer a:focus {
     width: 90%;
   }
   .masthead .masthead-device-mockup .device-wrapper {
-    max-width: 15rem;
+    max-width: 17rem;
   }
 }
 @media (min-width: 1200px) {
